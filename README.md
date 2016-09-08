@@ -1,1 +1,2 @@
 # lab
+tipo vnes izmeneniya
